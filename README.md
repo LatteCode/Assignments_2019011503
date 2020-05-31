@@ -8,5 +8,5 @@
 |-|-|
 |3주차 과제|[hsmint_profile](https://github.com/lattecode/hsmint_profile)|
 |4주차 과제|[hsmint_page](https://hsmint.github.io/)|
-|6주차 과제|[6th Assignment](https://github.com/hsmint/hsmint.github.io/6th)|
-|7주차 과제|[7th Assignment](https://github.com/hsmint/hsmint.github.io/7th)|
+|6주차 과제|[6th Assignment](https://github.com/hsmint/hsmint.github.io/tree/master/6th)|
+|7주차 과제|[7th Assignment](https://github.com/hsmint/hsmint.github.io/tree/master/7th)|
